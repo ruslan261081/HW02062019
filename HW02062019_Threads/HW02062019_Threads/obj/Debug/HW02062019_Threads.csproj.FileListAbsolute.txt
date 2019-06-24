@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\HW02062019_Threads\HW02062019_Threads\bin\Debug\HW02062019_Threads.exe.config
+C:\Users\rosla\source\repos\HW02062019_Threads\HW02062019_Threads\bin\Debug\HW02062019_Threads.exe
+C:\Users\rosla\source\repos\HW02062019_Threads\HW02062019_Threads\bin\Debug\HW02062019_Threads.pdb
+C:\Users\rosla\source\repos\HW02062019_Threads\HW02062019_Threads\obj\Debug\HW02062019_Threads.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW02062019_Threads\HW02062019_Threads\obj\Debug\HW02062019_Threads.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW02062019_Threads\HW02062019_Threads\obj\Debug\HW02062019_Threads.exe
+C:\Users\rosla\source\repos\HW02062019_Threads\HW02062019_Threads\obj\Debug\HW02062019_Threads.pdb
